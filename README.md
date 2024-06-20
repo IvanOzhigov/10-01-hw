@@ -53,7 +53,8 @@
 - На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 # Ответ 
-[Файл bash скрипта](https://github.com/IvanOzhigov/10-01-hw/blob/material/keepalived.conf)
+[Скрипт](https://github.com/IvanOzhigov/10-01-hw/blob/material/keepalived.conf)
+[Конфигурационный файл](https://github.com/IvanOzhigov/10-01-hw/blob/material/port-page-check.sh)
 
 ![alt text](https://github.com/IvanOzhigov/10-01-hw/blob/main/2-3.png)
 ![alt text](https://github.com/IvanOzhigov/10-01-hw/blob/main/2-4.png)
