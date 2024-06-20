@@ -40,8 +40,10 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 #Ответ 
- ![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/scrin/1-1.png)
- ![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/scrin/1-2.png)
+
+![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/scrin/1-1.png)
+![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/scrin/1-2.png)
+
 ------
  
 ### Задание 2
@@ -52,11 +54,10 @@
 - На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 #Ответ 
-![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/material/2-3.png)
-![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/main/2-1.png)
-![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/main/2-2.png)
-![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/material/2-3.png)
-![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/material/2-4.png)
+![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/main/2-3.png)
+![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/main/2-4.png)
+![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/material/2-1.png)
+![alt text](https://github.com/IvanOzhigov/10-02-hw/blob/material/2-2.png)
 
 ------
  
