@@ -40,6 +40,8 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 # Ответ 
+[Файл pkt](https://github.com/IvanOzhigov/10-01-hw/blob/pkt/hsrp_advanced.pkt)
+
 ![alt text](https://github.com/IvanOzhigov/10-01-hw/blob/scrin/1-1.png)
 ![alt text](https://github.com/IvanOzhigov/10-01-hw/blob/scrin/1-2.png)
 
